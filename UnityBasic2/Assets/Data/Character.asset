@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 206c97b84180e23419b412b2e326af10, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Character
+  dataArray:
+  - id: 20101
+    name: "\uCF54\uC720\uD0A4"
+    school: "\uC138\uBBF8\uB098"
+    image: koyuki(pazama)_00
+    description: "\uCF54\uC720\uD0A4(\uD30C\uC790\uB9C8)_\uAE30\uBCF8"
+  - id: 20102
+    name: "\uCF54\uC720\uD0A4"
+    school: "\uC138\uBBF8\uB098"
+    image: koyuki(pazama)_01
+    description: "\uCF54\uC720\uD0A4(\uD30C\uC790\uB9C8)_\uC6C3\uC74C"
+  - id: 20103
+    name: "\uCF54\uC720\uD0A4"
+    school: "\uC138\uBBF8\uB098"
+    image: koyuki(pazama)_02
+    description: "\uCF54\uC720\uD0A4(\uD30C\uC790\uB9C8)_\uC560\uC560\uC575"
+  - id: 20104
+    name: "\uCF54\uC720\uD0A4"
+    school: "\uC138\uBBF8\uB098"
+    image: koyuki(pazama)_03
+    description: "\uCF54\uC720\uD0A4(\uD30C\uC790\uB9C8)_\uB2F9\uD669"
+  - id: 20105
+    name: "\uCF54\uC720\uD0A4"
+    school: "\uC138\uBBF8\uB098"
+    image: koyuki(pazama)_04
+    description: "\uCF54\uC720\uD0A4(\uD30C\uC790\uB9C8)_\uB3C4\uC57C\uAC00\uC624"
